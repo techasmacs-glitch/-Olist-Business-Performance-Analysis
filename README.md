@@ -94,8 +94,7 @@ A **Star Schema** was implemented to simplify relationships, improve performance
 
 ## 👥 Customer Analysis
 
-![Customer Analysis](Dashboard Screenshots
-/Customer_Analysis.png)
+![Customer Analysis](Customer_Analysis.png)
 
 ## 🚚 Logistics & Delivery
 
