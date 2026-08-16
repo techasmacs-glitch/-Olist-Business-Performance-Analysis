@@ -86,7 +86,7 @@ A **Star Schema** was implemented to simplify relationships, improve performance
 
 ## 📈 Executive Summary
 
-![Executive Summary](Screenshots/Executive_Summary.png)
+![Executive Summary](Dashboard%20Screenshots/Executive_Summary.png)
 
 ## 📦 Product Analysis
 
